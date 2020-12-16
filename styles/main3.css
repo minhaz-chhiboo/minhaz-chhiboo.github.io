@@ -7,11 +7,26 @@ h1 {
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	text-align: center;
 	margin-top: 30px;
-	border: 7px solid;
+	border: 3px solid;
 	border-color: black;
+	background-color: aliceblue;
+}
+
+.sp55 {
+	text-align: center;
+	text-decoration: underline;
 }
 
 h3 {
 	color: rgb(36, 17, 1);
 	margin-top: 90px;
+}
+
+h5 {
+	font-size: 16px;
+}
+
+.sp5 {
+	background-color: aliceblue;
+	border-style: dotteddouble;
 }
