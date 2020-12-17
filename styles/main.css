@@ -1,39 +1,41 @@
-body {background-color: brown;}
-
-h1{
-  color: azure; 
-  font-family: Verdana, 
-  Geneva, Tahoma, sans-serif; 
-  text-align: center;
-  margin-top: 30px;
-  border: 7px solid;
-  border-color: black;
-
+body {
+	background-color: white;
 }
 
-h3{
-color: azure;
-margin-top: 90px;
+div.head {
+	border: 1.5px solid;
+	padding: 4px;
+	color: black;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	text-align: center;
+	margin-top: -7.5px;
+	margin-bottom: 30px;
+	margin-left: -6.5px;
+	margin-right: -6.5px;
+	background-color: skyblue;
+	border-color: black;
+	border-radius: 1.5mm;
+}
+.sprinttab1 {
+	border: 2px solid;
+	padding: 5px;
+	margin-bottom: 00px;
+	margin-left: 5px;
+	margin-right: 5px;
+	text-decoration-color: beige;
+	padding-left: 4.5mm;
+	padding-right: 4.5mm;
+	border-color: black;
+	background-color: chartreuse;
+	border-radius: 4mm;
 }
 
-p{
-  color: azure;
-  margin-top: 10px;
-  margin-bottom: 60px;
+.pageborder {
+	border: 1.5px solid;
+	padding: 300px;
+	margin-top: 50px;
+	margin-left: -6.5px;
+	margin-right: -6.5px;
+	border-color: black;
+	border-radius: 1mm;
 }
-a
-{
-  border: 4px solid;
-  padding: 10px; 
-  margin-bottom: 20px;
-  margin-left: 30px;
-  margin-right: 30px;
-  text-decoration-color: beige;
-  padding-left: 4mm;
-  padding-right: 4mm;
-  border-color: black;
-  background-color: chartreuse ;
-  border-radius: 10mm;
-}
-
-
