@@ -32,10 +32,13 @@ div.head {
 
 .pageborder {
 	border: 1.5px solid;
-	padding: 300px;
-	margin-top: 50px;
+	padding: 50px;
+	margin-top: 20px;
 	margin-left: -6.5px;
 	margin-right: -6.5px;
 	border-color: black;
 	border-radius: 1mm;
+}
+
+.pageborder2 {
 }
